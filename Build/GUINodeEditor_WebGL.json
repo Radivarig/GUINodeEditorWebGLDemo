@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GUINodeEditor_WebGL.data.unityweb",
+"asmCodeUrl": "GUINodeEditor_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "GUINodeEditor_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "GUINodeEditor_WebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
